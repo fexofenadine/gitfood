@@ -1,4 +1,4 @@
-# Pages tagged `long_cook_time`
+# Pages tagged `irish`
 
 |Recipe Title|Last Updated|Tags
 |:---|:---|:---|

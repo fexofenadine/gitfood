@@ -1,4 +1,4 @@
-# Pages tagged `reheating`
+# Pages tagged `italian`
 
 |Recipe Title|Last Updated|Tags
 |:---|:---|:---|

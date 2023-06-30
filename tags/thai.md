@@ -1,4 +1,4 @@
-# Pages tagged `expensive`
+# Pages tagged `thai`
 
 |Recipe Title|Last Updated|Tags
 |:---|:---|:---|

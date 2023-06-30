@@ -1,4 +1,4 @@
-# Pages tagged `long_cook_time`
+# Pages tagged `guinness`
 
 |Recipe Title|Last Updated|Tags
 |:---|:---|:---|
