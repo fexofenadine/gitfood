@@ -1,4 +1,4 @@
-# Curry Recipes 
+# Japanese Recipes 
 
 |Recipe Title|Tags|Created|Last Updated|
 |:---|:---|:---|:---|
